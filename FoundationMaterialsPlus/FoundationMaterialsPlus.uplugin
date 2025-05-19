@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.2",
+	"FriendlyName": "Foundations +",
+	"Description": "15 new colourable foundations in three different materials & three sizes to decorate your factories! Now with ramps!",
+	"Category": "Modding",
+	"CreatedBy": "Muppet Burrito",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.10.0"
+		}
+	],
+	"SemVersion": "1.1.2",
+	"GameVersion": ">=383729"
+}

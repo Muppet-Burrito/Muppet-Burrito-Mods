@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.7",
+	"FriendlyName": "Lights +",
+	"Description": "New lights galore to light up your worlds! Mostly emissives (all colourable), some \"fire\" Wall, ceiling, desk, floor & outdoor lights plus straight edged light beams perfect for linework and fine details!",
+	"Category": "Modding",
+	"CreatedBy": "Muppet Burrito",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.10.0"
+		}
+	],
+	"SemVersion": "1.0.7",
+	"GameVersion": ">=383729"
+}
